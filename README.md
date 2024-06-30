@@ -13,17 +13,19 @@
 - 👦🏻 address me as Aniket
 - 👀 I’m interested in Computer Science and allied fields
 - 💞️ I’m open for collaboration
+- 🖥️ Looking for software enginnering opportuinities
+- 🥱 Boring Fact: I can boil water.
+<!---
 - 🥷 Have done some binary exploitation and reverse enginnering
 - 🤖 Arduinos, Electronics, circuit design, Robotics!
 - 🌱 I’m currently learning the basics of software and hardware
-- 🖥️ Looking for software enginnering opportuinities
 - 🏅 Sports
     - ♟️Chess
     - 🏓 Tabble Tennis
     - 🏃🏻‍♂️ Running
 - 🎻 Can play the violin.
 - ⚡ Fun fact: Eyes are the tastiest part of human body
-- 🥱 Boring Fact: I can boil water.
+--->
 
 
 
