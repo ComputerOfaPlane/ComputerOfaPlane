@@ -9,7 +9,7 @@
 - ⚡ Fun fact: ...
 
 --->
-## About Me:-
+<!--## About Me:- -->
 - 👦🏻 address me as Aniket
 - 👀 I’m interested in Computer Science and allied fields
 - 💞️ I’m open for collaboration
