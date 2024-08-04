@@ -16,7 +16,7 @@
 - 🖥️ Looking for software enginnering opportuinities
 - 🥱 Boring Fact: I can boil water.
 
-![](https://komarev.com/ghpvc/?username=ComputerOfaPlane&style=flat-square)
+<!--![](https://komarev.com/ghpvc/?username=ComputerOfaPlane&style=flat-square)-->
 <!---
 - 🥷 Have done some binary exploitation and reverse enginnering
 - 🤖 Arduinos, Electronics, circuit design, Robotics!
